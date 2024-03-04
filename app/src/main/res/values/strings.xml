@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SubwayAlarm</string>
+
+    <string name="alarm">알람</string>
+    <string name="progress">진행중…</string>
+    <string name="subwaymap">노선도</string>
+    <string name="setting">설정</string>
+
+    <string name="bottom_nav_alarm">알람</string>
+    <string name="bottom_nav_train_map">노선도</string>
+    <string name="bottom_nav_progress">진행중…</string>
+    <string name="bottom_nav_setting">설정</string>
+
+    <string name="here_is_Stname">여기는 역이름 입니다</string>
+
+</resources>
